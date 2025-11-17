@@ -1,7 +1,11 @@
 # Telcolearn1
 
+
+ Update APT News...<img width="922"<img width="930" height="535" alt="Screenshot 2025-11-17 012611" src="https://github.com/user-attachments/assets/788e4e2a-ea1b-41c0-a0dc-89b20e05242f" />
+ height="836" alt="Screensh<img width="1888" height="5<img width="1461" height="400" alt="Screenshot 2025-11-16 232628" src="https://github.com/user-attachments/assets/ce80ff02-111f-454d-9d43-e82347f25be6" />
+84" alt="Screenshot 2025-11-17 005405" src="https://github.com/user-attachments/assets/838646aa-b515-4a4d-af1a-2eb9140cef8b" />
+ot 2025-11-17 012304" src="https://github.com/user-attachments/assets/0e895886-538f-4f6b-b0a5-64b5d784c89c" />
 1.sudo apt install
- Update APT News...
 2025-11-17T01:28:12.249620-08:00 DESKTOP-41RQG3V systemd[1]: Starting esm-cache.service - Update the local ESM caches...
 2025-11-17T01:28:18.483543-08:00 DESKTOP-41RQG3V systemd-resolved[261]: Clock change detected. Flushing caches.
 2025-11-17T01:28:20.542044-08:00 DESKTOP-41RQG3V dbus-daemon[307]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.19' (uid=0 pid=1828 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="kernel")
